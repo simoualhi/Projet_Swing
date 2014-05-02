@@ -20,6 +20,11 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
+/**
+ * 
+ * @author ENSAH
+ *
+ */
 
 public class ChoiceInterface extends JFrame implements ActionListener {
 
